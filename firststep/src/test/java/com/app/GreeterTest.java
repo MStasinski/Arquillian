@@ -1,6 +1,6 @@
 package com.app;
 
-import org.jboss.arquillian.container.test.api.Deployment;git status
+import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.shrinkwrap.api.Archive;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
